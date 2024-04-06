@@ -5,7 +5,7 @@
 # Model Training and Evaluation
 
 ## Model Used
-In this experiment, I utilized the ResNet-18 model for image classification tasks.
+In this experiment, I utilized the ResNet-18 model for image classification tasks with ColossalAI.
 
 ## Dataset Employed
 I employed the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class.
